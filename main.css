@@ -1,0 +1,18 @@
+#mainTitle {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+
+.subcontainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0 2rem 0;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
